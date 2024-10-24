@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BmiCalculator</string>
+
+    <string name="age"> Age</string>
+    <string name="weight"> Weight (kg)</string>
+    <string name="calculate"> Calculate</string>
+    <string name="length2"> Height (inches)</string>
+    <string name="length"> Height (cm)</string>
+    <string name="age2"> Age</string>
+    <string name="weight2"> Weight (pounds)</string>
+    <string name="back">Back to Home</string>
+    <string name="select">Gender</string>
+    <string name="home">HomePage</string>
+    <string name="selectun">Select Units</string>
+    <string-array name="Gender1">
+        <item> Gender </item>
+        <item>Female</item>
+        <item>Male</item>
+
+    </string-array>
+    <string-array name="units">
+        <item> Select Unites </item>
+        <item>US Units (pounds,inch)</item>
+        <item>Metric Units (kg,cm )</item>
+
+    </string-array>
+</resources>
